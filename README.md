@@ -9,7 +9,7 @@ https://codingly.io
 
 ## Getting started
 ```
-sls create --name YOUR_PROJECT_NAME --template-url https://github.com/codingly-io/sls-base
+sls create --name YOUR_PROJECT_NAME --template-url https://github.com/ayrtonzama/sls-base.git
 cd YOUR_PROJECT_NAME
 npm install
 ```
